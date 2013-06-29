@@ -1,0 +1,44 @@
+#iconHead {
+   background-color: red;
+}
+
+#description {
+   background-color: yellow;
+}
+
+#iconBar {
+   background-color: blue;
+}
+
+#navigationBtns {
+   background-color: green;
+}
+
+#head {
+   height: 400px;
+   background-color: orange;
+}
+
+#messageBox {
+   height: 300px;
+   background-color: peachpuff;
+}
+
+#message {
+   height: 200px;
+   width: 200px;
+}
+
+#iconBar {
+   height: 100px;
+}
+
+#navigationBtns {
+   width: 200px;
+   height: 75 px;
+
+}
+
+#description {
+   height: 300px;
+}
