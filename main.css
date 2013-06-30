@@ -32,6 +32,7 @@
 
 #head .caption {
    text-transform: uppercase;
+   margin-top: 20px;
 }
 
 #messageBox {
@@ -59,4 +60,24 @@
 
 #description {
    height: 300px;
+}
+
+.screen6 {
+   margin-top: 10%;
+}
+
+.screen6 #mainTitle {
+   text-transform: uppercase;
+}
+
+.screen6 .thumbnail {
+   border: none;
+   box-shadow: none;
+}
+
+.screen6 .thumbnail div {
+   margin: 0 auto;
+   width: 150;
+   text-align: center;
+   text-transform: uppercase;
 }
