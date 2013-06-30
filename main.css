@@ -1,9 +1,9 @@
 #iconHead {
-   background-color: red;
+   /*background-color: red;*/
 }
 
 #description {
-   background-color: yellow;
+   /*background-color: yellow;*/
 }
 
 #iconBar {
@@ -16,12 +16,12 @@
 }
 
 #navigationBtns {
-   background-color: green;
+   /*background-color: green;*/
 }
 
 #head {
    height: 400px;
-   background-color: orange;
+   /*background-color: orange;*/
 }
 
 #head img {
@@ -36,7 +36,7 @@
 
 #messageBox {
    height: 300px;
-   background-color: peachpuff;
+   /*background-color: peachpuff;*/
 }
 
 #message {
@@ -51,6 +51,9 @@
 #navigationBtns {
    width: 200px;
    height: 75 px;
+   position: absolute;
+   bottom: 5px;
+   right: 0;
 
 }
 
