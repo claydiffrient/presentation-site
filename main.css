@@ -46,12 +46,11 @@
 
 #messageBox {
    height: 300px;
-   /*background-color: peachpuff;*/
+   position: relative;
 }
 
 #message {
-   height: 200px;
-   width: 200px;
+   position: absolute;
 }
 
 #iconBar {
@@ -70,6 +69,38 @@
 #description {
    height: 300px;
 }
+
+.container.screen5 {
+   margin-top: 10%;
+}
+
+.screen5 #messageBox {
+   background-image: url("img/speech-bubble.png");
+   height: 325px;
+   width: 642px;
+   color: white;
+   margin-left: -180px;
+   margin-top: -100px;
+}
+
+.screen5 #message {
+   left: 200px;
+   top: 70px;
+   font-style: italic;
+   font-size: 3em;
+   line-height: 1.5em;
+   width: 400px;
+}
+
+.screen5 .caption {
+   width: 161px;
+   text-align: center;
+}
+
+.screen5 #mainContent {
+   margin-left: 80px;
+}
+
 
 .screen6 {
    margin-top: 10%;

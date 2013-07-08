@@ -4,7 +4,9 @@ $(document).ready(function(){
                  'img/demandingness-blue.png', 'img/depression-blue.png', 'img/other-blue.png',
                  'img/submissiveness-blue.png', 'img/Head_achievement.png', 'img/Head_affection.png',
                  'img/Head_anxiety.png', 'img/Head_demandingness.png', 'img/Head_depression.png',
-                 'img/Head_other.png', 'img/Head_submissiveness.png'];
+                 'img/Head_other.png', 'img/Head_submissiveness.png','img/achievement-blue.png',
+                 'img/logic-blue.png', 'img/roleplay-blue.png', 'img/semantic-blue.png',
+                 'img/spiritual-blue.png', 'img/truth-blue.png'];
    $(images).each(function(){
       $('<img/>')[0].src = this;
    });
